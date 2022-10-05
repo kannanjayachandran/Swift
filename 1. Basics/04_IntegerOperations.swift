@@ -10,3 +10,5 @@ print(id)
 
 // floating point numbers
 let score = 3.0
+
+print(score)
