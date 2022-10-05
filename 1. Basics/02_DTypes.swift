@@ -1,5 +1,3 @@
-// variables and constants
-
 // variables
 var name = "Ben Tennyson"
 var age = 10
@@ -17,3 +15,7 @@ var enemy = "Vilgax🦑"
 let oneLine = """
 It's hero time!
 """
+
+print("Name is", name, "age is", age)
+print("Job is", job, "Villain is ", enemy)
+print("Value of Pi is ", pi)
