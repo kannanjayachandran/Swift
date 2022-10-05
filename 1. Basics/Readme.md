@@ -2,7 +2,7 @@
 
 ## Variables and Constants
 
-Variables are declared using the `var` keyword, and are mutable. Constants are declared using the `let` keyword, and are immutable.
+Variables are declared using the `var` keyword, and are mutable. Constants are declared using the `let` keyword, and are immutable. Swift supports type annotation.
 
 ## Strings
 
